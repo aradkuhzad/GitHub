@@ -19,3 +19,11 @@ header {
     height: 56px;
     padding: 16px 16px 8px;
 }
+
+.content-left-nav-uph {
+    display: flex;
+    gap: 8px;
+    width: 377px;
+    height: 100%;
+    background-color: #010409;
+}
