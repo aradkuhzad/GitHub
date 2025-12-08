@@ -27,3 +27,11 @@ header {
     height: 100%;
     background-color: #010409;
 }
+
+.content-right-nav-uph {
+    display: flex;
+    gap: 12px;
+    width: 122px;
+    height: 100%;
+    background-color: #010409;
+}
