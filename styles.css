@@ -10,3 +10,12 @@ header {
     border-bottom: 1px solid rgb(61, 68, 77); 
 }
 
+.content-nav-uph {
+    display: flex;
+    width: 100%;
+    gap: 12px;
+    flex-direction: row;
+    background-color: darkcyan;
+    height: 56px;
+    padding: 16px 16px 8px;
+}
