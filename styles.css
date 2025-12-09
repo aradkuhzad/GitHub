@@ -54,3 +54,14 @@ header {
 .menu-button-nav-uph svg {
     fill: rgb(145, 152, 161);
 }
+
+.icon-github-nav-uphl {
+    display: flex;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    margin-left: 4px;
+}
+
