@@ -121,3 +121,10 @@ header {
     background-color: #010409;
 }
 
+.content-picture-profile-rgnavuph {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgba(0, 0, 0, 0);
+}
+
