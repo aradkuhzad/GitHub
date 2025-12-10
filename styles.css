@@ -51,7 +51,10 @@ header {
     padding: 1px 0 0 0;
 }
 
-.menu-button-nav-uph svg {
+.search-icon-rgnavuph,
+.notifications-icon-rgnavuph {
+    padding: 0;
+} 
     fill: rgb(145, 152, 161);
 }
 
