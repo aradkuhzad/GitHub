@@ -29,6 +29,8 @@ header {
 .content-right-nav-uph {
     display: flex;
     gap: 8px;
+    flex-shrink: 0;
+    width: auto;
     background-color: #010409;
 }
 
