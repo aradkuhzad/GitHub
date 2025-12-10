@@ -26,15 +26,10 @@ header {
     background-color: #010409;
 }
 
-.content-right-nav-uph {
-    display: flex;
-    gap: 8px;
-    flex-shrink: 0;
-    width: auto;
-    background-color: #010409;
-}
 
-.boxmu-nav-uph {
+.boxmu-nav-uph,
+.box-search-box-rgnavuph,
+.box-notifications-box-rgnavuph {
     position: relative;
     display: flex;
     width: 32px;
