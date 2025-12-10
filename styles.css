@@ -40,7 +40,9 @@ header {
     border-radius: 6px;
 }
 
-.menu-button-nav-uph {
+.menu-button-nav-uph,
+.search-icon-rgnavuph,
+.notifications-icon-rgnavuph {
     display: flex;
     align-items: center;
     justify-content: center;
