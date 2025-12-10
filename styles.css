@@ -67,6 +67,7 @@ header {
     align-items: center;
     justify-content: center;
     margin-left: 4px;
+    flex: none;
 }
 
 .icon-github-nav-uphl svg {
