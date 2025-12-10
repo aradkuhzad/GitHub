@@ -140,4 +140,9 @@ header {
     align-items: center;
     justify-content: center;
 }
+
+
+
+.box-picture-profile-rgnavuph img {
+    border-radius: 50%;
 }
