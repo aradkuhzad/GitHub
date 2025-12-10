@@ -71,6 +71,7 @@ header {
 }
 
 .icon-github-nav-uphl svg {
+    display: flex;
     fill: rgb(240, 246, 252);
 }
 
