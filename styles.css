@@ -135,5 +135,9 @@ header {
     box-shadow: rgba(255, 255, 255, 0.15) 0px 0px 0px 1px;
     border-radius: 50%;
     width: 32px;
+    height: 32px;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
 }
 }
