@@ -103,4 +103,17 @@
         border-right: 0;
     }
 
+    .content-arrow-dw-box-rgnavuph {
+        position: relative;
+        display: flex;
+        width: 24px;
+        height: 32px;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid rgb(61, 68, 77);
+        border-radius: 6px;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+
 }
