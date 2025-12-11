@@ -153,7 +153,8 @@ header {
 .content-issues-box-rgnavuph,
 .content-pull-requests-box-rgnavuph,
 .content-copilot-arrow-box-rgnavuph,
-.line-between-item-rgnavuph {
+.line-between-item-rgnavuph,
+.content-text-search-box-rgnavuph {
     display: none;
 }
 
