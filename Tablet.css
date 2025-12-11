@@ -77,5 +77,8 @@
         display: flex;
         content: "";
         width: 1px;
+        height: 20px;
+        margin: 6px 4px;
+        background-color: rgb(61, 68, 77);
     }
 }
