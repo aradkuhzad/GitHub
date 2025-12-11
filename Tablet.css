@@ -83,4 +83,9 @@
         margin: 6px 4px;
         background-color: rgb(61, 68, 77);
     }
+
+    .content-copilot-arrow-box-rgnavuph {
+        display: flex;
+        flex-direction: row;
+    }
 }
