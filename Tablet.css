@@ -74,5 +74,8 @@
     }
 
     .line-between-item-rgnavuph {
+        display: flex;
+        content: "";
+        width: 1px;
     }
 }
