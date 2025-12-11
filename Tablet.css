@@ -63,7 +63,9 @@
     }
 
     .pull-requests-icon-rgnavuph svg,
-    .pull-issues-icon-rgnavuph svg {
+    .pull-issues-icon-rgnavuph svg,
+    .copilot-arrow-box-rgnavuph svg,
+    .arrow-dw-box-rgnavuph svg {
         fill: rgb(145, 152, 161);
     }
 
