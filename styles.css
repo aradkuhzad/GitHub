@@ -148,3 +148,10 @@ header {
 .box-picture-profile-rgnavuph img {
     border-radius: 50%;
 }
+
+.content-create-button-arrow-box-rgnavuph,
+.content-issues-box-rgnavuph,
+.content-pull-requests-box-rgnavuph {
+    display: none;
+}
+
