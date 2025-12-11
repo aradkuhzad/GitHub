@@ -1,0 +1,75 @@
+@media (min-width: 768px) {
+    .box-create-button-arrow-box-rgnavuph {
+        position: relative;
+        display: flex;
+        height: 32px;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid rgb(61, 68, 77);
+        border-radius: 6px;
+        direction: rtl;
+        padding: 0 4px 0 8px;
+    }
+
+    .create-arrow-icon-rgnavuph {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 16px;
+        height: 16px;
+        padding: 1px 0 0 0;
+    }
+    
+    .create-create-button-icon-rgnavuph {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 4px;
+        width: 16px;
+        height: 16px;
+        padding: 1px 0 0 0;
+    }
+
+    .create-create-button-icon-rgnavuph svg,
+    .create-arrow-icon-rgnavuph svg {
+        fill: rgb(145, 152, 161);
+    }
+
+    .box-pull-requests-box-rgnavuph,
+    .box-issues-box-rgnavuph {
+        position: relative;
+        display: flex;
+        width: 32px;
+        height: 32px;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid rgb(61, 68, 77);
+        border-radius: 6px;
+    }
+
+    .pull-requests-icon-rgnavuph,
+    .pull-issues-icon-rgnavuph {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 16px;
+        height: 16px;
+        padding: 1px 0 0 0;
+    }
+
+    .pull-requests-icon-rgnavuph,
+    .pull-issues-icon-rgnavuph {
+        padding: 0;
+    }
+
+    .pull-requests-icon-rgnavuph svg,
+    .pull-issues-icon-rgnavuph svg {
+        fill: rgb(145, 152, 161);
+    }
+
+    .content-create-button-arrow-box-rgnavuph,
+    .content-issues-box-rgnavuph,
+    .content-pull-requests-box-rgnavuph {
+        display: flex;
+    }
+}
