@@ -151,7 +151,9 @@ header {
 
 .content-create-button-arrow-box-rgnavuph,
 .content-issues-box-rgnavuph,
-.content-pull-requests-box-rgnavuph {
+.content-pull-requests-box-rgnavuph,
+.content-copilot-arrow-box-rgnavuph,
+.line-between-item-rgnavuph {
     display: none;
 }
 
