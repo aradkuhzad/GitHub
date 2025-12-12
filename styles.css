@@ -234,3 +234,12 @@ header {
     display: none;
 }
 
+
+.text-ndwh-Repositories,
+.text-ndwh-Projects,
+.text-ndwh-Packages,
+.text-ndwh-Stars {
+    display: none;
+}
+
+
