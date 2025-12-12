@@ -248,3 +248,11 @@ header {
     margin-right: 8px;
 }
 
+.icon-ndwh-Repositories,
+.icon-ndwh-Projects,
+.icon-ndwh-Packages,
+.icon-ndwh-Stars {
+    display: none;
+}
+
+
