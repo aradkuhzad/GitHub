@@ -217,3 +217,13 @@ header {
     margin-top: 45px;
     border-bottom: 2px solid #f78166;
 }
+
+.text-ndwh-overview {
+    position: relative;
+    color: rgb(240, 246, 252);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+}
+
