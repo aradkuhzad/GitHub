@@ -277,6 +277,11 @@ header {
 .button-other-ndwh svg {
     fill: rgb(145, 152, 161);
 }
+.content-section-two {
+    display: flex;
+    gap: 16px;
+    width: 100%;
+}
 
 .left-section-two {
     display: flex;
