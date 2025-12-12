@@ -186,3 +186,10 @@ header {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
 
+.content-box-text-icon-tw,
+.content-box-text-icon-thr,
+.content-box-text-icon-f,
+.content-box-text-icon-fi {
+    display: none;
+} 
+
