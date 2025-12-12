@@ -256,3 +256,8 @@ header {
 }
 
 
+.number-ndwh-Repositories,
+.number-ndwh-Stars {
+    display: none;
+}
+
