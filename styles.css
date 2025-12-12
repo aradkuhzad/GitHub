@@ -202,3 +202,11 @@ header {
     text-align: center;
     justify-content: center;
 } 
+
+.content-text-icon-tw,
+.content-text-icon-thr,
+.content-text-icon-f,
+.content-text-icon-fi {
+    display: none;
+}
+
