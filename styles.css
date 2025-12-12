@@ -210,3 +210,10 @@ header {
     display: none;
 }
 
+.content-text-icon-one::after {
+    position: absolute;
+    content: "";
+    width: 106px;
+    margin-top: 45px;
+    border-bottom: 2px solid #f78166;
+}
