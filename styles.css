@@ -278,6 +278,11 @@ header {
     fill: rgb(145, 152, 161);
 }
 
+.left-section-two {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
 
 .content-left-secion-two {
     display: flex;
