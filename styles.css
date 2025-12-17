@@ -306,6 +306,8 @@ header {
 
 .picture-profile-secion-two {
     display: flex;
+    margin-right: 16px;
+    width: 16.66666666%;
 }
 
 .picture-profile-secion-two img {
