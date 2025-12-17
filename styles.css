@@ -326,5 +326,11 @@ header {
     align-items: center;
     width: 100%;
     margin: 0 0 24px;
-    height: 86px;
+}
+
+.content-nameuser {
+    display: flex;
+    padding: 16px 0;
+    width: 100%;
+}
 }
