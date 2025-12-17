@@ -320,3 +320,7 @@ header {
     vertical-align: middle;
 
 }
+
+.content-profile-nameuser-sntw {
+    display: flex;
+}
