@@ -323,4 +323,8 @@ header {
 
 .content-profile-nameuser-sntw {
     display: flex;
+    align-items: center;
+    width: 100%;
+    margin: 0 0 24px;
+    height: 86px;
 }
