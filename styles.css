@@ -315,4 +315,8 @@ header {
     width: 100%;   
     box-shadow: 0 0 0 1px #ffffff26;
     display: inline-block;
+    border: 1px solid #3d444d;
+    border-radius: 50%;
+    vertical-align: middle;
+
 }
