@@ -347,6 +347,9 @@ header {
     line-height: 30px;
     color: rgb(240, 246, 252);
 }
+
 .content-name-sntwdw {
+    font-size:20px;
+    font-weight: 300;
     color: rgb(145, 152, 161);
 }
