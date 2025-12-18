@@ -121,4 +121,8 @@
         gap: 16px;
     }
     
+    .content-profile-nameuser-sntw {
+        flex-direction: column;
+    }
+
 }
