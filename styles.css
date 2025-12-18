@@ -527,3 +527,8 @@ header {
     font-weight: 400;
     line-height: 18px;
 }
+
+.spantg-slsh-text {
+    padding: 0 2px;
+    color: rgb(145, 152, 161);
+}
