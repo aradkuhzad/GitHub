@@ -355,6 +355,10 @@ header {
     line-height: 24px;
     color: rgb(145, 152, 161);
 }
+.content-button-edit-sntwupdw {
+    border: 1px solid #3d444d;
+}
+
 .text-button-edit-sntwupdw {
     color: rgb(240, 246, 252);
     cursor: pointer;
