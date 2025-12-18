@@ -302,6 +302,7 @@ header {
     display: flex;
     margin-top: 32px;
     width: 100%;
+    flex-direction: column;
 }
 
 .picture-profile-secion-two {
