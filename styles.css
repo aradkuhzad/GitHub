@@ -355,6 +355,11 @@ header {
     line-height: 24px;
     color: rgb(145, 152, 161);
 }
+.icon-ltfw-sntwupdw svg {
+    fill: rgb(145, 152, 161);
+    margin-top: 2px;
+}
+
 .text-ltfw-sntwupdw {
     display: flex;
     gap: 3.5px;
