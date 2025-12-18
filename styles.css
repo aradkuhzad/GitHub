@@ -496,9 +496,17 @@ header {
     border-radius: 6px;
     width: 100%;
 }
+
 .content-readme-sntwupdw {
     display: flex;
     width: 100%;
     flex-direction: column;
     padding: 24px;
+}
+
+
+.content-text-readme-lfsntwupdw {
+    display: flex;
+    margin-bottom: 16px;
+    font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
 }
