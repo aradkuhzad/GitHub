@@ -461,6 +461,7 @@ header {
     display: flex;
 .content-picture-Achievements-sntwupdw {
     display: flex;
+    flex-direction: row;
 }
 
 .content-picture-Achievements-lfsntwupdw img,
