@@ -496,3 +496,9 @@ header {
     border-radius: 6px;
     width: 100%;
 }
+.content-readme-sntwupdw {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    padding: 24px;
+}
