@@ -545,3 +545,8 @@ header {
     margin-top: 2px;
     margin-bottom: 16px;
 }
+
+.icon-edit-sntw svg {
+    fill: rgb(145, 152, 161);
+    font-size: 12px;
+}
