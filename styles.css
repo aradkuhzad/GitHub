@@ -288,7 +288,8 @@ header {
 
 .content-section-two {
     display: flex;
-    gap: 16px;
+    gap: 21px;
+    flex-direction: column;
     width: 100%;
 }
 
