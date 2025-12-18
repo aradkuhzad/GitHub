@@ -357,6 +357,7 @@ header {
 }
 
 .content-box-imotx-sntwupdw {
+    display: flex;
     border: 1px solid #3d444d;
     width: 100%;
 }
