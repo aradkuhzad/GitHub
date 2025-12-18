@@ -355,3 +355,7 @@ header {
     line-height: 24px;
     color: rgb(145, 152, 161);
 }
+.text-rgtfw-sntwupdw {
+    display: flex;
+    gap: 3.5px;
+}
