@@ -358,6 +358,8 @@ header {
 
 .content-box-imotx-sntwupdw {
     display: flex;
+    padding: 4px 8px;
+    border-radius: 6px;
     border: 1px solid #3d444d;
     width: 100%;
 }
