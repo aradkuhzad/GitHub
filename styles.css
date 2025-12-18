@@ -356,6 +356,11 @@ header {
     color: rgb(145, 152, 161);
 }
 .content-fwfwng-sntwupdw {
+    display: flex;
+    flex-direction: row;
+    margin-top: 8px;
+    gap: 3px;
+    margin-bottom: 16px;
 }
 
 .content-fwfwng-sntwupdw a {
