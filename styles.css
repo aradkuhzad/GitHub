@@ -356,6 +356,9 @@ header {
     color: rgb(145, 152, 161);
 }
 .text-sntwupdw {
+    color: rgb(145, 152, 161);
+    cursor: pointer;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
     line-height: 20px;
 }
 
