@@ -355,6 +355,11 @@ header {
     line-height: 24px;
     color: rgb(145, 152, 161);
 }
+.content-text-icon-ltfw-sntwupdw {
+    display: flex;
+    align-items: center;
+    gap: 4px;    
+}
 
 .ltfw-sntwupdw {
     font-weight: 400;
