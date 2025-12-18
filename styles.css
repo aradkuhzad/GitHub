@@ -355,6 +355,15 @@ header {
     line-height: 24px;
     color: rgb(145, 152, 161);
 }
+.text-button-edit-sntwupdw {
+    color: rgb(240, 246, 252);
+    cursor: pointer;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
 .content-fwfwng-button-edit-sntwupdw {
     display: flex;
     flex-direction: column;
