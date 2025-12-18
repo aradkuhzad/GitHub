@@ -356,6 +356,9 @@ header {
     color: rgb(145, 152, 161);
 }
 .content-button-edit-sntwupdw {
+    width: 100%;
+    padding: 5px 16px;
+    text-align: center;
     border: 1px solid #3d444d;
 }
 
