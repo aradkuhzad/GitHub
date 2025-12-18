@@ -131,6 +131,10 @@
         margin-right: 0;
     }
 
+    .section-two {
+        padding: 0 24px;
+    }
+
     .left-section-two {
         width: 256px;
     }
