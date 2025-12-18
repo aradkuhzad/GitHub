@@ -461,4 +461,8 @@ header {
     display: flex;
 .content-picture-Achievements-lfsntwupdw img,
 .content-picture-Achievements-rgtsntwupdw img {
+    display: flex;
+    font-size: 14px;
+    width: 64px;
+    height: 64px;
 }
