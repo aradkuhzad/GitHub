@@ -125,4 +125,10 @@
         flex-direction: column;
     }
 
+    .picture-profile-secion-two {
+        width: 256px;
+        height: 256px;
+        margin-right: 0;
+    }
+
 }
