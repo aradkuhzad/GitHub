@@ -459,6 +459,11 @@ header {
 
 .content-Achievements-sntwupdw {
     display: flex;
+.content-text-Achievements-sntwupdw {
+    color: rgb(240, 246, 252);
+    cursor: pointer;
+}
+
 .content-picture-Achievements-sntwupdw {
     display: flex;
     flex-direction: row;
