@@ -459,6 +459,10 @@ header {
 
 .content-Achievements-sntwupdw {
     display: flex;
+.content-picture-Achievements-sntwupdw {
+    display: flex;
+}
+
 .content-picture-Achievements-lfsntwupdw img,
 .content-picture-Achievements-rgtsntwupdw img {
     display: flex;
