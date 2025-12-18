@@ -355,6 +355,11 @@ header {
     line-height: 24px;
     color: rgb(145, 152, 161);
 }
+.icon-imosntwupdw {
+    display: flex;
+    font-size: 12px;
+}
+
 .text-sntwupdw {
     color: rgb(145, 152, 161);
     cursor: pointer;
