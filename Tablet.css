@@ -153,6 +153,10 @@
 
     .content-box-button-edit-sntwupdw {
         margin-bottom: 17px;
+    .content-picture-Organizations-sntwupdw {
+        display: flex;
+    }
+    
     .content-picture-Organizations-sntwupdw img {
         display: flex;
         font-size: 14px;
