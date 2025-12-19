@@ -156,6 +156,11 @@
     .icon-imosntwupdwmniz {
         display: flex;
         position: relative;
+        bottom: 0;
+        margin-bottom: 32px;
+        margin-left: -40px;
+        border-radius: 50%;
+        font-size: 15px;
         left: 100%;
         align-items: baseline;
         margin-top: -70px;
