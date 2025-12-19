@@ -153,6 +153,10 @@
 
     .content-box-button-edit-sntwupdw {
         margin-bottom: 17px;
+    .content-Organizations-sntwupdw {
+        display: flex;
+    }
+    
     .content-text-Organizations-sntwupdw {
         color: rgb(240, 246, 252);
         cursor: pointer;
