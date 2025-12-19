@@ -52,6 +52,11 @@
         margin-left: auto;
     }
 
+
+    .content-section-two {
+        gap: 24px;
+    }
+
     }
     
 }
