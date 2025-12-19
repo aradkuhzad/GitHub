@@ -153,6 +153,11 @@
 
     .content-box-button-edit-sntwupdw {
         margin-bottom: 17px;
+    .icon-imosntwupdwmniz {
+        display: flex;
+        position: relative;
+    }
+
     .icon-imosntwupdwmniz img {
         width: 18px;
         height: 18px;
