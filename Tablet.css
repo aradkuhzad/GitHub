@@ -153,6 +153,10 @@
 
     .content-box-button-edit-sntwupdw {
         margin-bottom: 17px;
+    .icon-imosntwupdwmniz img {
+        box-shadow: none;
+    }
+
     .content-Organizations-sntwupdw {
         display: flex;
         flex-direction: column;
