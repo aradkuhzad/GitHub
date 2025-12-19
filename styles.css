@@ -760,6 +760,17 @@ header {
     line-height: 18px;
 }
 
+.text-html-sntwupdws {
+    display: flex;
+    color: rgb(227, 76, 38);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 1px;
+    margin-left: 3px;
+    line-height: 18px;
+}
+
 .content-svg-start-num {
     display: flex;
     flex-direction: row;
