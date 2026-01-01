@@ -553,8 +553,9 @@ header {
 
 .content-box-svgbx-sntwupdw {
     display: flex;
-    height: 49.44px;
+    flex-direction: column;
 }
+
 
 .icon-imosntwupdwmniz {
     display: none;
