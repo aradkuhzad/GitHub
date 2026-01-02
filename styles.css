@@ -704,7 +704,8 @@ header {
     margin-left: 4px;
 }
 
-.txlfsntw {
+.txlfsntw,
+.txrgtsntw {
     color: rgb(68, 147, 248);
     cursor: pointer;
     display: inline-block;
