@@ -715,7 +715,8 @@ header {
     line-height: 21px;
 }
 
-.button-public-lfsntwupdw {
+.button-public-lfsntwupdw,
+.button-public-rgtsntwupdw {
     border: 1px solid #3d444d;
     width: 48px;
     height: 21px;
