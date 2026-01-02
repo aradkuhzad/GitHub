@@ -757,20 +757,27 @@ header {
     line-height: 18px;
 }
 
-.content-linethrfsntwupdw {
+.content-linethrfsntwupdw,
+.content-linethrfsntwupdwrgt {
     display: flex;
     margin-top: 7px;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
 
-.content-csslcir-lfsntwupdw {
+.content-linethrfsntwupdwrgt {
+    margin-top: 7px;
+}
+
+.content-csslcir-lfsntwupdw,
+.content-csslcir-rgtsntwupdw {
     display: flex;
     align-items: center;
     flex-direction: row;
     margin-right: 19px;
 }
 
-.cirsntwupdw {
+.cirsntwupdw,
+.cirsntwupdws {
     display: flex;
     width: 12px;
     height: 12px;
