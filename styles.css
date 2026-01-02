@@ -786,16 +786,9 @@ header {
     border: 1px solid #ffffff26;
 }
 
-.cirsntwupdws {
-    display: flex;
-    width: 12px;
-    height: 12px;
-    background-color: rgb(227, 76, 38);
-    border-radius: 50%;
-    border: 1px solid #ffffff26;
-}
 
-.text-html-sntwupdw {
+.text-html-sntwupdw,
+.text-html-sntwupdwrgt {
     display: flex;
     color: rgb(145, 152, 161);
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
