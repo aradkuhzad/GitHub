@@ -666,6 +666,10 @@ header {
     margin-bottom: 4px;
 }
 
+.icon-repfsntwupdw {
+    justify-content: center;
+}
+
 .icon-repfsntwupdw svg {
     display: flex;
     text-align: center;
