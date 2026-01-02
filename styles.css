@@ -681,17 +681,19 @@ header {
     height: max-content;
 }
 
-.icon-repfsntwupdw svg {
+.icon-repfsntwupdw svg,
+.icon-repfsntwupdwrgt svg {
     display: flex;
     text-align: center;
     margin-right: 4px;
-    margin-bottom: 2px;
+    margin-top: -1px;
     width: 16px;
     height: 16px;
     fill: rgb(145, 152, 161);
 }
 
-.txslshlfsntw {
+.txslshlfsntw,
+.txrgtsntw {
     color: rgb(68, 147, 248);
     cursor: pointer;
     display: inline-block;
