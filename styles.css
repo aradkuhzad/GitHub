@@ -799,16 +799,6 @@ header {
     line-height: 18px;
 }
 
-.text-html-sntwupdws {
-    display: flex;
-    color: rgb(145, 152, 161);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-    font-size: 12px;
-    font-weight: 400;
-    margin-top: 1px;
-    margin-left: 3px;
-    line-height: 18px;
-}
 
 .content-svg-start-num {
     display: flex;
@@ -829,4 +819,20 @@ header {
 
 .sdsdfksdfdf {
     color: transparent;
+}
+
+
+.icon-repftxtbuttsntwupdw {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.cirsntwupdws {
+    background-color: #e34c26;
+}
+
+.icon-repftxtbuttsntwupdw svg {
+    fill: rgb(145, 152, 161);
 }
