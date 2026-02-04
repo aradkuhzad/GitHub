@@ -120,6 +120,7 @@ header {
     display: flex;
     gap: 8px;
     flex-shrink: 0;
+    margin-right: -2px;
     width: auto;
     background-color: #010409;
 }
