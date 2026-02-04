@@ -25,7 +25,7 @@
     }
 
     .icon-ndwh-Repositories {
-        display: block;
+        display: none;
         fill: #9198a1;
         margin-right: 8px;
         flex-shrink: 0;
