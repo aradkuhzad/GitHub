@@ -215,8 +215,8 @@ header {
 .content-text-icon-one::after {
     position: absolute;
     content: "";
-    width: 106px;
-    margin-top: 45px;
+    width: 82px;
+    margin-top: 42px;
     border-bottom: 2px solid #f78166;
 }
 
