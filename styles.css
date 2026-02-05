@@ -289,6 +289,8 @@ header {
 
 .text-more-ndwhafln {
     color: rgb(240, 246, 252);
+    cursor: pointer;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
 
 .arrow-more-ndwhafln svg {
