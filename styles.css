@@ -269,12 +269,12 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(33, 40, 48);
-    border: 1px solid rgb(61, 68, 77);
-    border-radius: 6px;
-    width: 32px;
-    height: 32px;
-    flex-shrink: 0;
+    flex-direction: row;
+}
+
+.line-more-ndwhbfmr {
+    display: flex;
+    background-color:#3d444db3;
 }
 
 
