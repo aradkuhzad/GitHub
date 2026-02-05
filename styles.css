@@ -275,11 +275,12 @@ header {
 .line-more-ndwhbfmr {
     display: flex;
     background-color:#3d444db3;
+    width: 1px;
+    height: 24px;
+    padding-bottom: 1px;
+    margin: 0 4px 0 0;
 }
 
-
-.button-other-ndwh svg {
-    fill: rgb(145, 152, 161);
 }
 
 .section-two {
