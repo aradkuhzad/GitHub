@@ -288,6 +288,9 @@ header {
 }
 
 .text-more-ndwhafln {
+    color: rgb(240, 246, 252);
+}
+
 .arrow-more-ndwhafln svg {
     font-size: 14px;
     fill: rgb(145, 152, 161)
