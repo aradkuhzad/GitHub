@@ -283,6 +283,8 @@ header {
 
 .text-arrow-ndwhafln {
     display: flex;
+    align-items: center;
+    gap: 8px;
 }
 
 .section-two {
