@@ -66,6 +66,8 @@ header {
 
 .search-icon-rgnavuph svg {
     fill: rgb(145, 152, 161);
+    flex-shrink: 0;
+}
 
 
 .notifications-icon-rgnavuph svg {
