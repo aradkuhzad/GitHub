@@ -1,6 +1,11 @@
 @media (min-width: 669px) {
     .icon-ndwh-overview,
-     {
+    .icon-ndwh-Stars {
         display: block;
+        margin-bottom: 2px;
+    }
+
+    .icon-ndwh-Repositories,
+    .icon-ndwh-Projects,
     }
 }
