@@ -902,6 +902,13 @@ header {
     color: rgb(145, 152, 161);
     cursor: pointer;
     font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-right: 8px;
+}
+
+
+
 .arrowdw-contributionsset {
     cursor: pointer;
     fill: rgb(145, 152, 161);
