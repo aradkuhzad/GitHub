@@ -11,5 +11,6 @@
         display: block;
         margin-bottom: 2px;
     .content-text-icon-one::after {
+        width: 106px;
     }
 }
