@@ -282,8 +282,8 @@ header {
     background-color: #3d444db3;
     width: 1px;
     height: 24px;
-    padding-bottom: 1px;
-    margin: 0 4px 0 0;
+    left: -2px;
+    margin: 0px 4px 3px 0;
 }
 
 .text-arrow-ndwhafln {
