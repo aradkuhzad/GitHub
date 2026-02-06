@@ -35,7 +35,8 @@
         display: block;
         background-color: rgba(101, 108, 118, 0.2);
         border-radius: 24px;
-        margin-left: 8px;
+        margin-left: 10px;
+        margin-bottom: 2px;
         padding: 0 6px;
         font-size: 12px;
         font-weight: 500;
