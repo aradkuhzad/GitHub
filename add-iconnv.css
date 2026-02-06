@@ -11,6 +11,7 @@
         display: block;
         margin-bottom: 2px;
     .content-items-nav-dwh {
+        gap: 8px;
     }
 
     .content-text-icon-one::after {
