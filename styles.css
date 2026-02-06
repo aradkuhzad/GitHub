@@ -60,6 +60,8 @@ header {
 }
 
 .menu-button-nav-uph svg {
+    fill: rgb(145, 152, 161);
+    margin-bottom: 1px;
 }
 
 .search-icon-rgnavuph svg,
