@@ -1,7 +1,8 @@
 @media (min-width: 1012px) {
     .box-search-box-rgnavuph {
-        width: 100%;
-        padding: 5px 31px 5px 7px;
+        display: flex;
+        position: relative;
+        left: 2px;
         gap: 8px;
     } 
 
